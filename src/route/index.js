@@ -204,9 +204,11 @@ router.get('/work', function (req, res) {
 									name: "Beccend full starr",
 								},
 								{
-									name: "Beccend full starr",
+									name: "Beccend full starr histuru",
 								},
 							],
+							stackAmount: 3,
+							awardAmount: 2,
 						},
 					],
 				},
